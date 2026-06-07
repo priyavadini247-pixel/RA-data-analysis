@@ -20,3 +20,4 @@ Adjust your parameters inside `config.yaml`, then execute the main plotting scri
 ```bash
 python plot_cost.py
 ```
+author - rishabh ojha
